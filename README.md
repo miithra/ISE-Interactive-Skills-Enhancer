@@ -1,20 +1,32 @@
-<<<<<<< HEAD
-# autism_project
+# ISE – Interactive Skills Enhancer
+### SIH Shortlisted Project
 
-A new Flutter project.
+## Overview
+Interactive Skills Enhancer (ISE) is a VR-based learning platform designed to help children with Autism Spectrum Disorder (ASD) and Intellectual Disabilities (ID) improve communication, social interaction, and behavioral skills through immersive learning experiences.
 
-## Getting Started
+## Problem Statement
+Children with ASD and ID often struggle with traditional learning methods. ISE provides an engaging, safe, and adaptive VR environment to enhance learning effectiveness.
 
-This project is a starting point for a Flutter application.
+## Key Features
+- VR-based interactive learning modules
+- Emotion recognition for adaptive learning
+- Gamified activities to improve engagement
+- Progress tracking and performance analysis
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Frontend: React / Unity
+- Backend: Java, Spring Boot
+- Database: MySQL
+- Tools: Git, GitHub
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## My Role
+- Backend API development
+- Integration of emotion detection module
+- Database design and testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Autism_Project
->>>>>>> 28eb37671a86219ba10fab0648be33c3dac37220
+## Achievement
+- Shortlisted in Smart India Hackathon (SIH)
+
+## Project Status
+Final Year Project – Ongoing
+
